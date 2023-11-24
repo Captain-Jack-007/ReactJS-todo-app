@@ -1,5 +1,13 @@
-# React project for practice 1
+# React Todo Project was done  By Sardorbek Sirojov
 
+# Available Functions
+- Add todo
+- Complete todo
+- Reset completed todo
+- Reset all todo
+- Delete todo
+- Show the number of completed todos
+  
 ## Available Scripts
 
 In the project directory, you can run:
